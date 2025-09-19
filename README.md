@@ -1,6 +1,6 @@
 # 📚 Book Management App
 
-A simple frontend **Book Management** web app built with **React + TypeScript + TailwindCSS** for the frontend and a Node.js backend (API).  
+A simple frontend **Book Management** web app built with **React + TypeScript + TailwindCSS** for the frontend .  
 Users can add, edit, delete, filter, and paginate through books with a clean UI.
 
 ---
@@ -27,8 +27,6 @@ Users can add, edit, delete, filter, and paginate through books with a clean UI.
 - Toast notifications (custom context)
 
 **Backend**
-- Node.js / Express (API)
-- MongoDB or PostgreSQL (depending on setup)
 - REST API (`bookApi` abstraction used in frontend)
 
 ---
