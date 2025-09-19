@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "title": "Reagan His Life and Legend",
+      "author": "Gabrielle Zevin ",
+      "year": 2025,
+      "genre": "thriller",
+      "status": "issued",
+      "id": "430d"
+    },
+    {
+      "id": "a0d9",
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern ",
+      "year": 2025,
+      "genre": "adventure",
+      "status": "issued"
+    },
+    {
+      "id": "2352",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "author": " J.K. Rowling ",
+      "year": 2025,
+      "genre": "thriller",
+      "status": "issued"
+    },
+    {
+      "id": "95c2",
+      "title": "The Book Thief",
+      "author": " Markus Zusak ",
+      "year": 2025,
+      "genre": "romantic",
+      "status": "available"
+    },
+    {
+      "id": "dbce",
+      "title": "The Choice ",
+      "author": "Alex Cahagan",
+      "year": 2025,
+      "genre": "comedy",
+      "status": "issued"
+    },
+    {
+      "id": "35fe",
+      "title": "If He Had Been With Me",
+      "author": " Laura Nowlin ",
+      "year": 2021,
+      "genre": "thriller",
+      "status": "issued"
+    },
+    {
+      "id": "0f4e",
+      "title": "Faceless Devotion",
+      "author": " D.V. Cole",
+      "year": 2020,
+      "genre": "thriller",
+      "status": "issued"
+    },
+    {
+      "id": "3ebf",
+      "title": "Judge Wolfe's Intern",
+      "author": " Cora North",
+      "year": 2025,
+      "genre": "thriller",
+      "status": "issued"
+    },
+    {
+      "id": "b621",
+      "title": "Dinners with Ruth",
+      "author": " Nina Totenberg",
+      "year": 2025,
+      "genre": "adventure",
+      "status": "available"
+    },
+    {
+      "id": "179f",
+      "title": "Reading Lolita in Tehran",
+      "author": "Azar Nafisi",
+      "year": 2025,
+      "genre": "adventure",
+      "status": "available"
+    }
+  ]
+}
